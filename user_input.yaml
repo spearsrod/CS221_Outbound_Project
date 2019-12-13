@@ -1,0 +1,5 @@
+max_travel_distance_km: 50
+#Currently supported activities: Backpacking, Hiking, Skiing, Diving (More to come)
+desired_activities: ['Skiing', 'Hiking', 'Backpacking', 'Diving', 'Fishing', 'Cycling', 'Running']
+number_of_days: 3
+...
